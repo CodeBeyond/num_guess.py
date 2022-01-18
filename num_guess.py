@@ -11,5 +11,5 @@ while numbers_guessed < 99999999999999999999999999999999999999999999999999999999
         print("Too high - try again:")
     else:
         if guess == num:
-            print("You guessed in ", numbers_guessed, "tries.")
+            print("You guessed in", numbers_guessed, "tries.")
         break
