@@ -1,6 +1,6 @@
 print("Enter the integer for the player to guess.")
 num = int(input())
-print("Enter a guess.")
+print("Enter your guess.")
 numbers_guessed = 0
 while numbers_guessed < 99999999999999999999999999999999999999999999999999999999999999:
     guess = int(input())
