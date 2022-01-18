@@ -1,4 +1,4 @@
-print("Enter a number for a player to guess.")
+print("Enter the integer for the player to guess.")
 num = int(input())
 print("Enter a guess.")
 numbers_guessed = 0
